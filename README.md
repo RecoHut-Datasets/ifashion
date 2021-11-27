@@ -1,0 +1,2 @@
+# ifashion
+Alibaba iFashion Dataset
